@@ -1,0 +1,20 @@
+Employee Records Database Management & Analysis
+
+This project demonstrates the use of SQL for managing and analyzing employee data using MySQL Workbench. The dataset contains employee details including personal information, department, salary, and joining date.
+The objective of this project is to perform:
+1.CRUD operations
+2.Filtering and sorting
+3.Aggregation and grouping
+4.Joins
+5.Views
+6.Stored Procedures
+
+Business Insights From the analysis:
+1.Identified highest and lowest salary employees
+2.Analyzed department-wise salary distribution
+3.Determined average salary by country
+4.Created reusable views for reporting
+5.Automated queries using stored procedures
+6.Implemented salary calculation functions
+User-defined FunctionsThis project demonstrates practical implementation of SQL concepts including CRUD operations, filtering, sorting, aggregation, joins, views, stored procedures, and user-defined functions.
+The project reflects real-world database management practices used in organizations for employee data management and reporting.
